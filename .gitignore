@@ -1,0 +1,5 @@
+# Backup files from test script
+.dotfiles-backup-*
+
+# macOS
+.DS_Store

@@ -1,6 +1,7 @@
 tap "felixkratz/formulae"
 tap "koekeishiya/formulae"
 tap "nikitabobko/tap"
+brew "bat"
 brew "eza"
 brew "fastfetch"
 brew "fd"
