@@ -1,3 +1,5 @@
+![Screenshot running Cursor and Ghostty](./Banner.png)
+
 # Dotfiles
 
 Мои конфигурационные файлы для macOS.
