@@ -1,0 +1,5 @@
+eval "$(starship init zsh)"
+
+source "exports.zsh"
+source "bun.zsh"
+source "aliases.zsh"

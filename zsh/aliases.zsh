@@ -1,0 +1,5 @@
+alias cat="bat"
+alias ls="eza --icons -a -1"
+alias c="clear"
+alias r="source ~/.zshrc"
+alias e="hx"
