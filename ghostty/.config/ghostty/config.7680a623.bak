@@ -1,5 +1,4 @@
 font-family = MartianMono NF
 window-padding-x = 30
 window-padding-y = 30
-theme = Rose Pine Dawn
-keybind = shift+enter=text:\x1b\r
+theme = Rose Pine 
