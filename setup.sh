@@ -26,7 +26,7 @@ brew bundle --file=./brew/Brewfile
 echo "🔗 Setting up symlinks with stow..."
 
 # List of packages to stow
-PACKAGES=("eza" "helix" "starship" "fastfetch" "zsh" "ghostty")
+PACKAGES=("eza" "helix" "starship" "fastfetch" "zsh" "ghostty" "nvim")
 
 for package in "${PACKAGES[@]}"; do
     echo "  → Linking $package..."
